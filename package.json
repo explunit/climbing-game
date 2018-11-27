@@ -1,12 +1,12 @@
 {
   "name": "explunit-climbing-game",
-  "version": "0.0.1-1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.0.x"
+    "express": "3.11.0"
   },
   "subdomain": "explunit.climbing-game",
   "engines": {
